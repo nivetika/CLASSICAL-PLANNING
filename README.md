@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-#NAME:RAKSHITHA P
-#REGISTER NUMBER:212224060205
+### NAME:NIVETIKA K
+### REGISTER NUMBER:212224060182
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
@@ -113,9 +113,10 @@ actions = {
 plan = find_plan(initial_state, goal_state, actions)
 print(plan)
 ```
-#OUTPUT:
-```
+# OUTPUT:
+
 ['move_A_to_B', 'move_B_to_C']
-```
-# Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
-<h3>You Can use any of the searching Strategies for planning and executing a sequence of actions.<br> You can also look in to the Code given in the Repository.</h3>
+<img width="808" height="41" alt="image" src="https://github.com/user-attachments/assets/ac29bc5a-6418-473b-9a56-93db35728951" />
+
+# RESULT:
+The result demonstrates the successful implementation of a classical planning algorithm that generates a sequence of actions to transition from the initial state to the goal state.
